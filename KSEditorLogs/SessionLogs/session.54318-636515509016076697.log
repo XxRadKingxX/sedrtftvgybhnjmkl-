@@ -1,0 +1,92 @@
+2018-01-14 18:21:41.7867 [DEBUG] Validating model...
+2018-01-14 18:21:41.8863 [DEBUG] Model validated
+2018-01-14 18:21:41.8873 [DEBUG] Authenticating with server...
+2018-01-14 18:21:42.1386 [DEBUG] Connected to room. (54318:SceneFusion:SceneFusion)
+2018-01-14 18:21:42.1421 [INFO] Connected to server.
+2018-01-14 18:21:42.1426 [DEBUG] OS : Microsoft Windows NT 10.0.15063.0
+2018-01-14 18:21:42.1426 [DEBUG] Unity Version : 2017.3.0f3
+2018-01-14 18:21:42.1426 [DEBUG] Pro License : False
+2018-01-14 18:21:42.1431 [DEBUG] Platform : WindowsEditor
+2018-01-14 18:21:42.1481 [DEBUG] Build Target : StandaloneWindows64
+2018-01-14 18:21:42.1481 [DEBUG] Scene Fusion version : 1.7.2
+2018-01-14 18:21:42.1486 [DEBUG] Scene Fusion client build : 0
+2018-01-14 18:21:42.1486 [DEBUG] User : knowlife4@gmail.com
+2018-01-14 18:21:42.1486 [DEBUG] Waiting for server response
+2018-01-14 18:21:42.4176 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2018-01-14 18:21:42.4176 [DEBUG] User Permissions: FFFFFFFF
+2018-01-14 18:21:44.4423 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2018-01-14 18:21:44.4428 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2018-01-14 18:21:44.4428 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2018-01-14 18:21:44.4428 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2018-01-14 18:21:44.4428 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2018-01-14 18:21:44.4428 [DEBUG] No stand-in for UnityEngine.Experimental.Rendering.RenderPassAttachment
+2018-01-14 18:21:45.7915 [DEBUG] Uploading scene 'Untitled'
+2018-01-14 18:21:45.8717 [DEBUG] Spawn request. (Objects: 2)
+2018-01-14 18:21:46.0737 [DEBUG] Loading complete
+2018-01-14 18:28:40.5824 [DEBUG] Spawn request. (Objects: 1)
+2018-01-14 18:29:31.9809 [DEBUG] Spawn request. (Objects: 1)
+2018-01-14 18:29:39.3039 [DEBUG] Spawn request. (Objects: 2)
+2018-01-14 18:29:42.1243 [DEBUG] Disconnecting temporarily to enter play mode.
+2018-01-14 18:29:42.1249 [DEBUG] Disconnecting from room (54318:SceneFusion:SceneFusion)
+2018-01-14 18:29:42.1359 [INFO] Disconnected from server.
+2018-01-14 18:29:42.1359 [DEBUG] Disconnect. (Duration: 479)
+2018-01-14 18:29:42.3796 [INFO] Static batching in play mode is not supported in a Scene Fusion session and will be temporarily disabled.
+2018-01-14 18:29:44.7890 [DEBUG] Scene Fusion version 1.7.2-0
+2018-01-14 18:29:44.8176 [DEBUG] Play mode: True, sync in play mode: False
+2018-01-14 18:29:44.9202 [DEBUG] Connecting to room (54318:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1027
+2018-01-14 18:29:44.9388 [DEBUG] Host connection. (Session: 54318)
+2018-01-14 18:29:45.1085 [DEBUG] Validating model...
+2018-01-14 18:29:45.1967 [DEBUG] Model validated
+2018-01-14 18:29:45.1972 [DEBUG] Authenticating with server...
+2018-01-14 18:29:45.3108 [DEBUG] Connected to room. (54318:SceneFusion:SceneFusion)
+2018-01-14 18:29:45.3269 [INFO] Connected to server.
+2018-01-14 18:29:45.3274 [DEBUG] OS : Microsoft Windows NT 10.0.15063.0
+2018-01-14 18:29:45.3274 [DEBUG] Unity Version : 2017.3.0f3
+2018-01-14 18:29:45.3284 [DEBUG] Pro License : False
+2018-01-14 18:29:45.3289 [DEBUG] Platform : WindowsEditor
+2018-01-14 18:29:45.3289 [DEBUG] Build Target : StandaloneWindows64
+2018-01-14 18:29:45.3289 [DEBUG] Scene Fusion version : 1.7.2
+2018-01-14 18:29:45.3294 [DEBUG] Scene Fusion client build : 0
+2018-01-14 18:29:45.3294 [DEBUG] User : knowlife4@gmail.com
+2018-01-14 18:29:45.3865 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2018-01-14 18:29:45.3865 [DEBUG] User Permissions: FFFFFFFF
+2018-01-14 18:29:45.5132 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2018-01-14 18:29:45.5137 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2018-01-14 18:29:45.5137 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2018-01-14 18:29:45.5137 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2018-01-14 18:29:45.5137 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2018-01-14 18:29:45.5137 [DEBUG] No stand-in for UnityEngine.Experimental.Rendering.RenderPassAttachment
+2018-01-14 18:29:48.7028 [DEBUG] Play mode: False
+2018-01-14 18:29:48.7900 [DEBUG] Loading complete
+2018-01-14 18:33:45.3796 [DEBUG] Refresh token (b7TlLeazs7wA7RWwUyZNFkRbJ0RUicLKB5xPNyUA6iRriNqARE6whYeMhIB9RU1XW0Wsn1FOhniWoZNK4y53gxoFmkRERp9FxEBkp6LIdWimGCS8bfezidE44l1fmOarSOZH0iHypYk4e834S6hczYRtlTU99Y58nP7Gghr1HSHzlPYD1pd5yZg2QphkpQe2PyGHE1HDKGoUPfFNCzEgeZ7A7qbQ3qYLLcqYBdJFhJpB2wRixOZLaqz4njq1cyF) error: {"err":"Error getting response stream (ReadDone2): ReceiveFailure"}
+2018-01-14 18:36:15.6102 [DEBUG] Disconnecting temporarily to recompile.
+2018-01-14 18:36:15.6112 [DEBUG] Disconnecting from room (54318:SceneFusion:SceneFusion)
+2018-01-14 18:36:15.6282 [INFO] Disconnected from server.
+2018-01-14 18:36:15.6282 [DEBUG] Disconnect. (Duration: 225)
+2018-01-14 18:36:19.9517 [DEBUG] Scene Fusion version 1.7.2-0
+2018-01-14 18:37:54.2310 [DEBUG] Connecting
+2018-01-14 18:37:54.3094 [DEBUG] Connecting to room (54318:SceneFusion:SceneFusion) via TCP at ec2-35-162-237-97.us-west-2.compute.amazonaws.com:1027
+2018-01-14 18:37:54.3234 [DEBUG] Host connection. (Session: 54318)
+2018-01-14 18:37:54.4953 [DEBUG] Validating model...
+2018-01-14 18:37:54.5905 [DEBUG] Model validated
+2018-01-14 18:37:54.5915 [DEBUG] Authenticating with server...
+2018-01-14 18:37:54.7162 [DEBUG] Connected to room. (54318:SceneFusion:SceneFusion)
+2018-01-14 18:37:54.7252 [INFO] Connected to server.
+2018-01-14 18:37:54.7252 [DEBUG] OS : Microsoft Windows NT 10.0.15063.0
+2018-01-14 18:37:54.7252 [DEBUG] Unity Version : 2017.3.0f3
+2018-01-14 18:37:54.7257 [DEBUG] Pro License : False
+2018-01-14 18:37:54.7257 [DEBUG] Platform : WindowsEditor
+2018-01-14 18:37:54.7257 [DEBUG] Build Target : StandaloneWindows64
+2018-01-14 18:37:54.7257 [DEBUG] Scene Fusion version : 1.7.2
+2018-01-14 18:37:54.7262 [DEBUG] Scene Fusion client build : 0
+2018-01-14 18:37:54.7262 [DEBUG] User : knowlife4@gmail.com
+2018-01-14 18:37:54.7262 [DEBUG] Waiting for server response
+2018-01-14 18:37:54.8714 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000500
+2018-01-14 18:37:54.8714 [DEBUG] User Permissions: FFFFFFFF
+2018-01-14 18:37:55.2691 [DEBUG] No stand-in for UnityEngine.Video.VideoClip
+2018-01-14 18:37:55.2691 [DEBUG] No stand-in for UnityEngine.AvatarMask
+2018-01-14 18:37:55.2696 [DEBUG] No stand-in for UnityEngine.AI.NavMeshData
+2018-01-14 18:37:55.2696 [DEBUG] No stand-in for UnityEngine.CustomRenderTexture
+2018-01-14 18:37:55.2696 [DEBUG] No stand-in for UnityEngine.U2D.SpriteAtlas
+2018-01-14 18:37:55.2696 [DEBUG] No stand-in for UnityEngine.Experimental.Rendering.RenderPassAttachment
+2018-01-14 18:37:55.4719 [DEBUG] Loading complete
